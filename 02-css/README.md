@@ -7,7 +7,7 @@ I want you to build a portfolio page using HTML & CSS. A portfolio is a place yo
 ## Challenge Setup
 - Navigate to the `coding_challenges` folder and create a new folder called `02-css`. 
 
-- Open VSCode, and Open the folder `02-html` in the VSCode explorer
+- Open VSCode, and Open the folder `02-css` in the VSCode explorer
 
 - Create three new files in that folder called `index.html`, `about.html`, and `style.css`
 
